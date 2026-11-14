@@ -1,0 +1,9 @@
+# Gradle & Build outputs
+build/
+.gradle/
+
+# Local IDE / OS files
+local.properties
+*.iml
+.idea/
+.DS_Store
